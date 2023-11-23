@@ -1,0 +1,865 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Michael021",
+      "email": "teste",
+      "senha": "123",
+      "cash": 976.8499999999999,
+      "cartas": [
+        {
+          "carta": {
+            "id": 59919307,
+            "name": "Back to the Front",
+            "type": "Trap Card",
+            "desc": "Target 1 monster in your GY; Special Summon it in Defense Position.",
+            "preco": "0.07",
+            "img": "https://images.ygoprodeck.com/images/cards/59919307.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 15967552,
+            "name": "Small Scuffle",
+            "type": "Trap Card",
+            "desc": "Choose 2 unused Main Monster Zones in the same column; Special Summon 1 Level 2 or lower monster from your hand or Deck in face-up Attack Position or face-down Defense Position in your chosen Main Monster Zone, then your opponent can do the same from their hand or Deck to theirs. You can only activate 1 \"Small Scuffle\" per turn.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/15967552.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 67030233,
+            "name": "Majestic Red Dragon",
+            "type": "Synchro Monster",
+            "desc": "\"Majestic Dragon\" + \"Red Dragon Archfiend\" + 1 non-Tuner monster\nCannot be destroyed by card effects. After damage calculation, if this card attacks: Destroy all Defense Position monsters on the field. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects, and if you do, this card gains ATK equal to that monster's ATK. These changes last until the end of this turn. During the End Phase: Target 1 \"Red Dragon Archfiend\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+            "preco": "3.90",
+            "img": "https://images.ygoprodeck.com/images/cards/67030233.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 74657662,
+            "name": "Vylon Material",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+            "preco": "0.14",
+            "img": "https://images.ygoprodeck.com/images/cards/74657662.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 24668830,
+            "name": "Germ Infection",
+            "type": "Spell Card",
+            "desc": "The ATK of a non Machine-Type monster equipped with this card is decreased by 300 points at each of its Standby Phases.",
+            "preco": "0.32",
+            "img": "https://images.ygoprodeck.com/images/cards/24668830.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 12760674,
+            "name": "Mordschlag",
+            "type": "Spell Card",
+            "desc": "Equip only to a Normal Summoned/Set monster you control. It is unaffected by your opponent's activated effects of Special Summoned monsters. During damage calculation, if the equipped monster battles an opponent's Special Summoned monster: That opponent's monster loses ATK/DEF equal to the equipped monster's original ATK, during that damage calculation only.",
+            "preco": "0.05",
+            "img": "https://images.ygoprodeck.com/images/cards/12760674.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 41359411,
+            "name": "Noble Arms - Clarent",
+            "type": "Spell Card",
+            "desc": "Equip only to a Warrior monster. You can only control 1 \"Noble Arms - Clarent\". Once per turn: You can pay 500 LP; the equipped monster can attack directly this turn. If this face-up card on the field is destroyed and sent to the GY: You can target 1 Warrior \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Clarent\" once per turn.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/41359411.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 35220244,
+            "name": "Gravity Blaster",
+            "type": "Spell Card",
+            "desc": "Equip only to a Machine-Type monster. Once per turn: You can activate this effect; it permanently gains 400 ATK. (This ATK gain remains even if this card leaves the field or the monster becomes unaffected by card effects.) If it battles an opponent's monster, that monster's effect is negated during the Battle Phase only.",
+            "preco": "0.12",
+            "img": "https://images.ygoprodeck.com/images/cards/35220244.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 72932673,
+            "name": "Abyss-scale of the Mizuchi",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Mermail\" monster. It gains 800 ATK. When a Spell effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the Graveyard.",
+            "preco": "0.15",
+            "img": "https://images.ygoprodeck.com/images/cards/72932673.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 33114323,
+            "name": "Metalsilver Armor",
+            "type": "Spell Card",
+            "desc": "As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster.",
+            "preco": "4.72",
+            "img": "https://images.ygoprodeck.com/images/cards/33114323.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 5183693,
+            "name": "Amulet of Ambition",
+            "type": "Spell Card",
+            "desc": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels, during that damage calculation only. When this card is sent to the GY: You can place it on top of your Deck.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/5183693.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 22046459,
+            "name": "Megamorph",
+            "type": "Spell Card",
+            "desc": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.",
+            "preco": "0.10",
+            "img": "https://images.ygoprodeck.com/images/cards/22046459.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 65993085,
+            "name": "Overdone Burial",
+            "type": "Spell Card",
+            "desc": "Activate this card by discarding 1 monster, then target 1 monster in your GY whose Level is lower than the discarded monster's original Level; Special Summon it and equip it with this card. The equipped monster has its effects negated. You can only activate 1 \"Overdone Burial\" per turn.",
+            "preco": "0.41",
+            "img": "https://images.ygoprodeck.com/images/cards/65993085.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 63851864,
+            "name": "Break! Draw!",
+            "type": "Spell Card",
+            "desc": "Equip only to a Machine monster. If the equipped monster destroys an opponent's monster by battle and sends it to the GY: Draw 1 card. Destroy this card during your 3rd End Phase after activation.",
+            "preco": "0.06",
+            "img": "https://images.ygoprodeck.com/images/cards/63851864.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 17639150,
+            "name": "Saqlifice",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Qli\" monster. It gains 300 ATK and cannot be destroyed by battle. The equipped monster can be treated as 2 Tributes for the Tribute Summon of a \"Qli\" monster. If this card is sent from the field to the Graveyard: You can add 1 \"Qli\" monster from your Deck to your hand.",
+            "preco": "1.98",
+            "img": "https://images.ygoprodeck.com/images/cards/17639150.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 33453260,
+            "name": "Comic Hand",
+            "type": "Spell Card",
+            "desc": "If you control \"Toon World\", equip to an opponent's monster. Take control of it. It is treated as a Toon monster. If your opponent controls no Toon monsters, it can attack your opponent directly. If \"Toon World\" is not on the field, destroy this card.",
+            "preco": "6.33",
+            "img": "https://images.ygoprodeck.com/images/cards/33453260.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 42149850,
+            "name": "Disposable Learner Device",
+            "type": "Spell Card",
+            "desc": "The equipped monster gains 200 ATK for each monster in your GY. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Disposable Learner Device\" once per turn.",
+            "preco": "0.02",
+            "img": "https://images.ygoprodeck.com/images/cards/42149850.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 303660,
+            "name": "Amplifier",
+            "type": "Spell Card",
+            "desc": "Equip only to \"Jinzo\". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.",
+            "preco": "0.04",
+            "img": "https://images.ygoprodeck.com/images/cards/303660.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 33872334,
+            "name": "Phoenix Gearblade",
+            "type": "Spell Card",
+            "desc": "Equip only to a Warrior or FIRE monster. It gains 300 ATK. If the equipped monster attacked, at the end of the Damage Step: You can send this card to the GY; each of your Warrior and FIRE monsters can make a second attack during this Battle Phase. If this card is sent to the GY, or banished, to activate a monster effect: You can add this card to your hand. You can only use this effect of \"Phoenix Gearblade\" once per turn.",
+            "preco": "0.00",
+            "img": "https://images.ygoprodeck.com/images/cards/33872334.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 32919136,
+            "name": "Falling Down",
+            "type": "Spell Card",
+            "desc": "Activate this card by targeting an opponent's monster; equip this card to it. Take control of it. Destroy this card unless you control an \"Archfiend\" card. During each of your opponent's Standby Phases: You take 800 damage.",
+            "preco": "0.18",
+            "img": "https://images.ygoprodeck.com/images/cards/32919136.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 65169794,
+            "name": "Black Pendant",
+            "type": "Spell Card",
+            "desc": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.",
+            "preco": "0.07",
+            "img": "https://images.ygoprodeck.com/images/cards/65169794.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 70828912,
+            "name": "Premature Burial",
+            "type": "Spell Card",
+            "desc": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.",
+            "preco": "0.16",
+            "img": "https://images.ygoprodeck.com/images/cards/70828912.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 38552107,
+            "name": "Horn of Light",
+            "type": "Spell Card",
+            "desc": "Increase the DEF of a monster equipped with this card by 800 points. When this card is sent from the field to the Graveyard, if you pay 500 Life Points, this card returns to the top of your Deck.",
+            "preco": "0.15",
+            "img": "https://images.ygoprodeck.com/images/cards/38552107.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 55154048,
+            "name": "Nordic Relic Draupnir",
+            "type": "Spell Card",
+            "desc": "Equip only to an \"Aesir\" or \"Nordic\" monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 \"Nordic Relic\" card from your Deck to your hand.",
+            "preco": "0.06",
+            "img": "https://images.ygoprodeck.com/images/cards/55154048.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 83225447,
+            "name": "Stim-Pack",
+            "type": "Spell Card",
+            "desc": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
+            "preco": "0.02",
+            "img": "https://images.ygoprodeck.com/images/cards/83225447.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 98552723,
+            "name": "Restoration of the Monarchs",
+            "type": "Spell Card",
+            "desc": "Activate this card by targeting 1 monster in your GY with 2400 ATK/1000 DEF, or 2800 ATK/1000 DEF; Special Summon it in Defense Position, but negate its effects, also equip it with this card. When this card leaves the field, destroy that monster. The equipped monster can be treated as 2 Tributes for a Tribute Summon. You can only activate 1 \"Restoration of the Monarchs\" per turn.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/98552723.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 84740193,
+            "name": "Buster Rancher",
+            "type": "Spell Card",
+            "desc": "Only a monster with an ATK of 1000 points or less can be equipped with this card. During damage calculation, increase the ATK of the monster equipped with this card by 2500 points if the opponent's monster that battles it is in Attack Position and its ATK is 2500 or more, OR if the opponent's monster that battles it is in Defense Position and its DEF is 2500 or more.",
+            "preco": "0.16",
+            "img": "https://images.ygoprodeck.com/images/cards/84740193.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 8730435,
+            "name": "Gladiator Beast's Battle Archfiend Shield",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Gladiator Beast\" monster. If the equipped monster would be destroyed, destroy this card instead. When this card is sent to your Graveyard because the equipped monster you controlled was shuffled into your Deck: Return this card to your hand.",
+            "preco": "0.06",
+            "img": "https://images.ygoprodeck.com/images/cards/8730435.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 83928661,
+            "name": "Danger! Feets of Strength!",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Danger!\" monster. It gains 800 ATK/DEF. It cannot be destroyed by card effects. It can make up to 2 attacks on monsters during each Battle Phase.",
+            "preco": "0.12",
+            "img": "https://images.ygoprodeck.com/images/cards/83928661.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 30552375,
+            "name": "Grid Rod",
+            "type": "Spell Card",
+            "desc": "Equip only to a Cyberse monster you control. It gains 300 ATK, it is unaffected by your opponent's card effects, also the first time it would be destroyed by battle each turn, it is not destroyed. If this face-up card on the field is destroyed and sent to the GY: You can activate this effect; Cyberse monsters you currently control cannot be destroyed by battle or card effects until the end of this turn.",
+            "preco": "0.09",
+            "img": "https://images.ygoprodeck.com/images/cards/30552375.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 40619825,
+            "name": "Axe of Despair",
+            "type": "Spell Card",
+            "desc": "(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+            "preco": "0.16",
+            "img": "https://images.ygoprodeck.com/images/cards/40619825.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 88540324,
+            "name": "Salamangreat Claw",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Salamangreat\" monster. The equipped monster cannot be destroyed by battle or card effects, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If the equipped monster is a \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material, during each Battle Phase it can make attacks on monsters up to its Link Rating. You can only control 1 \"Salamangreat Claw\".",
+            "preco": "0.14",
+            "img": "https://images.ygoprodeck.com/images/cards/88540324.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 50152549,
+            "name": "Paralyzing Potion",
+            "type": "Spell Card",
+            "desc": "A non Machine-Type monster equipped with this card cannot attack.",
+            "preco": "0.34",
+            "img": "https://images.ygoprodeck.com/images/cards/50152549.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 242146,
+            "name": "Ballista of Rampart Smashing",
+            "type": "Spell Card",
+            "desc": "If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.",
+            "preco": "0.14",
+            "img": "https://images.ygoprodeck.com/images/cards/242146.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 1435851,
+            "name": "Dragon Treasure",
+            "type": "Spell Card",
+            "desc": "A Dragon-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+            "preco": "0.29",
+            "img": "https://images.ygoprodeck.com/images/cards/1435851.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 61854111,
+            "name": "Legendary Sword",
+            "type": "Spell Card",
+            "desc": "Equip only to a Warrior monster. It gains 300 ATK/DEF.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/61854111.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 53819808,
+            "name": "Temple of the Six",
+            "type": "Spell Card",
+            "desc": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. Monsters your opponent controls lose 100 ATK for each Bushido Counter on this card.",
+            "preco": "0.24",
+            "img": "https://images.ygoprodeck.com/images/cards/53819808.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 72883039,
+            "name": "Infinite Light",
+            "type": "Trap Card",
+            "desc": "Activate this card by sending 1 face-up \"Infinite Machine\" from your Spell & Trap Zone to the GY. This face-up card cannot be destroyed by your opponent's card effects. Neither player can target \"Timelord\" monsters you control with card effects, or return \"Timelord\" monsters from the field to the Deck. Once per turn, if you control no monsters: You can Special Summon up to 1 \"Timelord\" monster each from your hand, Deck, and GY, with different names, ignoring their Summoning conditions.",
+            "preco": "0.71",
+            "img": "https://images.ygoprodeck.com/images/cards/72883039.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 21249921,
+            "name": "Dragunity Knight - Vajrayana",
+            "type": "Synchro Monster",
+            "desc": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters\nWhen this card is Synchro Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. Once per turn: You can send 1 Equip Card equipped to this card to the GY; double this card's ATK until the end of this turn.",
+            "preco": "0.35",
+            "img": "https://images.ygoprodeck.com/images/cards/21249921.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 31226177,
+            "name": "Imduk the World Chalice Dragon",
+            "type": "Link Monster",
+            "desc": "1 Normal Monster, except a Token\r\nDuring your Main Phase, you can Normal Summon 1 \"World Chalice\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) At the start of the Damage Step, if this card battles an opponent's monster this card points to: You can destroy that opponent's monster. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
+            "preco": "0.55",
+            "img": "https://images.ygoprodeck.com/images/cards/31226177.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 48355999,
+            "name": "Rokket Synchron",
+            "type": "Tuner Monster",
+            "desc": "When this card is Normal Summoned: You can target 1 Level 5 or higher DARK Dragon monster in your GY; Special Summon it in Defense Position, negate its effects, destroy it during the End Phase, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters.",
+            "preco": "0.14",
+            "img": "https://images.ygoprodeck.com/images/cards/48355999.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 29417188,
+            "name": "Psi-Blocker",
+            "type": "Effect Monster",
+            "desc": "Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the end of your opponent's next turn.",
+            "preco": "8.25",
+            "img": "https://images.ygoprodeck.com/images/cards/29417188.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 60226558,
+            "name": "Nephe Shaddoll Fusion",
+            "type": "Spell Card",
+            "desc": "Activate this card by declaring 1 Attribute. Equip only to a \"Shaddoll\" monster, and it becomes that Attribute. During your Main Phase: You can Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, including the equipped monster. You can only use this effect of \"Nephe Shaddoll Fusion\" once per turn.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/60226558.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 68779682,
+            "name": "Labrynth Barrage",
+            "type": "Trap Card",
+            "desc": "When you activate a Set Normal Trap Card, except \"Labrynth Barrage\": This effect becomes that Normal Trap's effect when that card is activated, also until the end of your opponent's next turn after this card resolves, your opponent takes no effect damage from your card effects.",
+            "preco": "0.07",
+            "img": "https://images.ygoprodeck.com/images/cards/68779682.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 47158777,
+            "name": "Protector Whelp of the Destruction Swordsman",
+            "type": "Link Monster",
+            "desc": "2 monsters\r\nIf this card is Link Summoned: You can send 1 \"Destruction Sword\" card from your Deck to the GY, then, you can Special Summon 1 \"Buster Blader\" monster from your hand. At the end of your Battle Phase, if your opponent controls no monsters: You can target 1 \"Buster Blader\" monster you control that did not declare an attack this turn; inflict damage to your opponent equal to that monster's ATK. You can only use each effect of \"Protector Whelp of the Destruction Swordsman\" once per turn.",
+            "preco": "0.19",
+            "img": "https://images.ygoprodeck.com/images/cards/47158777.jpg"
+          }
+        }
+      ],
+      "deck": [
+        {
+          "carta": {
+            "id": 48355999,
+            "name": "Rokket Synchron",
+            "type": "Tuner Monster",
+            "desc": "When this card is Normal Summoned: You can target 1 Level 5 or higher DARK Dragon monster in your GY; Special Summon it in Defense Position, negate its effects, destroy it during the End Phase, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters.",
+            "preco": "0.14",
+            "img": "https://images.ygoprodeck.com/images/cards/48355999.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 31226177,
+            "name": "Imduk the World Chalice Dragon",
+            "type": "Link Monster",
+            "desc": "1 Normal Monster, except a Token\r\nDuring your Main Phase, you can Normal Summon 1 \"World Chalice\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) At the start of the Damage Step, if this card battles an opponent's monster this card points to: You can destroy that opponent's monster. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
+            "preco": "0.55",
+            "img": "https://images.ygoprodeck.com/images/cards/31226177.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 21249921,
+            "name": "Dragunity Knight - Vajrayana",
+            "type": "Synchro Monster",
+            "desc": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters\nWhen this card is Synchro Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. Once per turn: You can send 1 Equip Card equipped to this card to the GY; double this card's ATK until the end of this turn.",
+            "preco": "0.35",
+            "img": "https://images.ygoprodeck.com/images/cards/21249921.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 72883039,
+            "name": "Infinite Light",
+            "type": "Trap Card",
+            "desc": "Activate this card by sending 1 face-up \"Infinite Machine\" from your Spell & Trap Zone to the GY. This face-up card cannot be destroyed by your opponent's card effects. Neither player can target \"Timelord\" monsters you control with card effects, or return \"Timelord\" monsters from the field to the Deck. Once per turn, if you control no monsters: You can Special Summon up to 1 \"Timelord\" monster each from your hand, Deck, and GY, with different names, ignoring their Summoning conditions.",
+            "preco": "0.71",
+            "img": "https://images.ygoprodeck.com/images/cards/72883039.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 53819808,
+            "name": "Temple of the Six",
+            "type": "Spell Card",
+            "desc": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. Monsters your opponent controls lose 100 ATK for each Bushido Counter on this card.",
+            "preco": "0.24",
+            "img": "https://images.ygoprodeck.com/images/cards/53819808.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 61854111,
+            "name": "Legendary Sword",
+            "type": "Spell Card",
+            "desc": "Equip only to a Warrior monster. It gains 300 ATK/DEF.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/61854111.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 1435851,
+            "name": "Dragon Treasure",
+            "type": "Spell Card",
+            "desc": "A Dragon-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+            "preco": "0.29",
+            "img": "https://images.ygoprodeck.com/images/cards/1435851.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 242146,
+            "name": "Ballista of Rampart Smashing",
+            "type": "Spell Card",
+            "desc": "If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.",
+            "preco": "0.14",
+            "img": "https://images.ygoprodeck.com/images/cards/242146.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 50152549,
+            "name": "Paralyzing Potion",
+            "type": "Spell Card",
+            "desc": "A non Machine-Type monster equipped with this card cannot attack.",
+            "preco": "0.34",
+            "img": "https://images.ygoprodeck.com/images/cards/50152549.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 88540324,
+            "name": "Salamangreat Claw",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Salamangreat\" monster. The equipped monster cannot be destroyed by battle or card effects, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If the equipped monster is a \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material, during each Battle Phase it can make attacks on monsters up to its Link Rating. You can only control 1 \"Salamangreat Claw\".",
+            "preco": "0.14",
+            "img": "https://images.ygoprodeck.com/images/cards/88540324.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 40619825,
+            "name": "Axe of Despair",
+            "type": "Spell Card",
+            "desc": "(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+            "preco": "0.16",
+            "img": "https://images.ygoprodeck.com/images/cards/40619825.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 30552375,
+            "name": "Grid Rod",
+            "type": "Spell Card",
+            "desc": "Equip only to a Cyberse monster you control. It gains 300 ATK, it is unaffected by your opponent's card effects, also the first time it would be destroyed by battle each turn, it is not destroyed. If this face-up card on the field is destroyed and sent to the GY: You can activate this effect; Cyberse monsters you currently control cannot be destroyed by battle or card effects until the end of this turn.",
+            "preco": "0.09",
+            "img": "https://images.ygoprodeck.com/images/cards/30552375.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 83928661,
+            "name": "Danger! Feets of Strength!",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Danger!\" monster. It gains 800 ATK/DEF. It cannot be destroyed by card effects. It can make up to 2 attacks on monsters during each Battle Phase.",
+            "preco": "0.12",
+            "img": "https://images.ygoprodeck.com/images/cards/83928661.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 8730435,
+            "name": "Gladiator Beast's Battle Archfiend Shield",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Gladiator Beast\" monster. If the equipped monster would be destroyed, destroy this card instead. When this card is sent to your Graveyard because the equipped monster you controlled was shuffled into your Deck: Return this card to your hand.",
+            "preco": "0.06",
+            "img": "https://images.ygoprodeck.com/images/cards/8730435.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 84740193,
+            "name": "Buster Rancher",
+            "type": "Spell Card",
+            "desc": "Only a monster with an ATK of 1000 points or less can be equipped with this card. During damage calculation, increase the ATK of the monster equipped with this card by 2500 points if the opponent's monster that battles it is in Attack Position and its ATK is 2500 or more, OR if the opponent's monster that battles it is in Defense Position and its DEF is 2500 or more.",
+            "preco": "0.16",
+            "img": "https://images.ygoprodeck.com/images/cards/84740193.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 98552723,
+            "name": "Restoration of the Monarchs",
+            "type": "Spell Card",
+            "desc": "Activate this card by targeting 1 monster in your GY with 2400 ATK/1000 DEF, or 2800 ATK/1000 DEF; Special Summon it in Defense Position, but negate its effects, also equip it with this card. When this card leaves the field, destroy that monster. The equipped monster can be treated as 2 Tributes for a Tribute Summon. You can only activate 1 \"Restoration of the Monarchs\" per turn.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/98552723.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 83225447,
+            "name": "Stim-Pack",
+            "type": "Spell Card",
+            "desc": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
+            "preco": "0.02",
+            "img": "https://images.ygoprodeck.com/images/cards/83225447.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 55154048,
+            "name": "Nordic Relic Draupnir",
+            "type": "Spell Card",
+            "desc": "Equip only to an \"Aesir\" or \"Nordic\" monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 \"Nordic Relic\" card from your Deck to your hand.",
+            "preco": "0.06",
+            "img": "https://images.ygoprodeck.com/images/cards/55154048.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 38552107,
+            "name": "Horn of Light",
+            "type": "Spell Card",
+            "desc": "Increase the DEF of a monster equipped with this card by 800 points. When this card is sent from the field to the Graveyard, if you pay 500 Life Points, this card returns to the top of your Deck.",
+            "preco": "0.15",
+            "img": "https://images.ygoprodeck.com/images/cards/38552107.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 70828912,
+            "name": "Premature Burial",
+            "type": "Spell Card",
+            "desc": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.",
+            "preco": "0.16",
+            "img": "https://images.ygoprodeck.com/images/cards/70828912.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 65169794,
+            "name": "Black Pendant",
+            "type": "Spell Card",
+            "desc": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.",
+            "preco": "0.07",
+            "img": "https://images.ygoprodeck.com/images/cards/65169794.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 32919136,
+            "name": "Falling Down",
+            "type": "Spell Card",
+            "desc": "Activate this card by targeting an opponent's monster; equip this card to it. Take control of it. Destroy this card unless you control an \"Archfiend\" card. During each of your opponent's Standby Phases: You take 800 damage.",
+            "preco": "0.18",
+            "img": "https://images.ygoprodeck.com/images/cards/32919136.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 33872334,
+            "name": "Phoenix Gearblade",
+            "type": "Spell Card",
+            "desc": "Equip only to a Warrior or FIRE monster. It gains 300 ATK. If the equipped monster attacked, at the end of the Damage Step: You can send this card to the GY; each of your Warrior and FIRE monsters can make a second attack during this Battle Phase. If this card is sent to the GY, or banished, to activate a monster effect: You can add this card to your hand. You can only use this effect of \"Phoenix Gearblade\" once per turn.",
+            "preco": "0.00",
+            "img": "https://images.ygoprodeck.com/images/cards/33872334.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 303660,
+            "name": "Amplifier",
+            "type": "Spell Card",
+            "desc": "Equip only to \"Jinzo\". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.",
+            "preco": "0.04",
+            "img": "https://images.ygoprodeck.com/images/cards/303660.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 42149850,
+            "name": "Disposable Learner Device",
+            "type": "Spell Card",
+            "desc": "The equipped monster gains 200 ATK for each monster in your GY. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Disposable Learner Device\" once per turn.",
+            "preco": "0.02",
+            "img": "https://images.ygoprodeck.com/images/cards/42149850.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 33453260,
+            "name": "Comic Hand",
+            "type": "Spell Card",
+            "desc": "If you control \"Toon World\", equip to an opponent's monster. Take control of it. It is treated as a Toon monster. If your opponent controls no Toon monsters, it can attack your opponent directly. If \"Toon World\" is not on the field, destroy this card.",
+            "preco": "6.33",
+            "img": "https://images.ygoprodeck.com/images/cards/33453260.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 17639150,
+            "name": "Saqlifice",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Qli\" monster. It gains 300 ATK and cannot be destroyed by battle. The equipped monster can be treated as 2 Tributes for the Tribute Summon of a \"Qli\" monster. If this card is sent from the field to the Graveyard: You can add 1 \"Qli\" monster from your Deck to your hand.",
+            "preco": "1.98",
+            "img": "https://images.ygoprodeck.com/images/cards/17639150.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 63851864,
+            "name": "Break! Draw!",
+            "type": "Spell Card",
+            "desc": "Equip only to a Machine monster. If the equipped monster destroys an opponent's monster by battle and sends it to the GY: Draw 1 card. Destroy this card during your 3rd End Phase after activation.",
+            "preco": "0.06",
+            "img": "https://images.ygoprodeck.com/images/cards/63851864.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 65993085,
+            "name": "Overdone Burial",
+            "type": "Spell Card",
+            "desc": "Activate this card by discarding 1 monster, then target 1 monster in your GY whose Level is lower than the discarded monster's original Level; Special Summon it and equip it with this card. The equipped monster has its effects negated. You can only activate 1 \"Overdone Burial\" per turn.",
+            "preco": "0.41",
+            "img": "https://images.ygoprodeck.com/images/cards/65993085.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 22046459,
+            "name": "Megamorph",
+            "type": "Spell Card",
+            "desc": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.",
+            "preco": "0.10",
+            "img": "https://images.ygoprodeck.com/images/cards/22046459.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 5183693,
+            "name": "Amulet of Ambition",
+            "type": "Spell Card",
+            "desc": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels, during that damage calculation only. When this card is sent to the GY: You can place it on top of your Deck.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/5183693.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 33114323,
+            "name": "Metalsilver Armor",
+            "type": "Spell Card",
+            "desc": "As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster.",
+            "preco": "4.72",
+            "img": "https://images.ygoprodeck.com/images/cards/33114323.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 72932673,
+            "name": "Abyss-scale of the Mizuchi",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Mermail\" monster. It gains 800 ATK. When a Spell effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the Graveyard.",
+            "preco": "0.15",
+            "img": "https://images.ygoprodeck.com/images/cards/72932673.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 35220244,
+            "name": "Gravity Blaster",
+            "type": "Spell Card",
+            "desc": "Equip only to a Machine-Type monster. Once per turn: You can activate this effect; it permanently gains 400 ATK. (This ATK gain remains even if this card leaves the field or the monster becomes unaffected by card effects.) If it battles an opponent's monster, that monster's effect is negated during the Battle Phase only.",
+            "preco": "0.12",
+            "img": "https://images.ygoprodeck.com/images/cards/35220244.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 41359411,
+            "name": "Noble Arms - Clarent",
+            "type": "Spell Card",
+            "desc": "Equip only to a Warrior monster. You can only control 1 \"Noble Arms - Clarent\". Once per turn: You can pay 500 LP; the equipped monster can attack directly this turn. If this face-up card on the field is destroyed and sent to the GY: You can target 1 Warrior \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Clarent\" once per turn.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/41359411.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 12760674,
+            "name": "Mordschlag",
+            "type": "Spell Card",
+            "desc": "Equip only to a Normal Summoned/Set monster you control. It is unaffected by your opponent's activated effects of Special Summoned monsters. During damage calculation, if the equipped monster battles an opponent's Special Summoned monster: That opponent's monster loses ATK/DEF equal to the equipped monster's original ATK, during that damage calculation only.",
+            "preco": "0.05",
+            "img": "https://images.ygoprodeck.com/images/cards/12760674.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 24668830,
+            "name": "Germ Infection",
+            "type": "Spell Card",
+            "desc": "The ATK of a non Machine-Type monster equipped with this card is decreased by 300 points at each of its Standby Phases.",
+            "preco": "0.32",
+            "img": "https://images.ygoprodeck.com/images/cards/24668830.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 74657662,
+            "name": "Vylon Material",
+            "type": "Spell Card",
+            "desc": "Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+            "preco": "0.14",
+            "img": "https://images.ygoprodeck.com/images/cards/74657662.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 67030233,
+            "name": "Majestic Red Dragon",
+            "type": "Synchro Monster",
+            "desc": "\"Majestic Dragon\" + \"Red Dragon Archfiend\" + 1 non-Tuner monster\nCannot be destroyed by card effects. After damage calculation, if this card attacks: Destroy all Defense Position monsters on the field. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects, and if you do, this card gains ATK equal to that monster's ATK. These changes last until the end of this turn. During the End Phase: Target 1 \"Red Dragon Archfiend\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+            "preco": "3.90",
+            "img": "https://images.ygoprodeck.com/images/cards/67030233.jpg"
+          }
+        },
+        {
+          "carta": {
+            "id": 15967552,
+            "name": "Small Scuffle",
+            "type": "Trap Card",
+            "desc": "Choose 2 unused Main Monster Zones in the same column; Special Summon 1 Level 2 or lower monster from your hand or Deck in face-up Attack Position or face-down Defense Position in your chosen Main Monster Zone, then your opponent can do the same from their hand or Deck to theirs. You can only activate 1 \"Small Scuffle\" per turn.",
+            "preco": "0.11",
+            "img": "https://images.ygoprodeck.com/images/cards/15967552.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
